@@ -1,0 +1,39 @@
+# Secrets - CRITIQUE
+.env
+.env.local
+secrets.toml
+.streamlit/secrets.toml
+*.key
+config.ini
+api_keys.json
+
+# Python
+*.pyc
+__pycache__/
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Données
+*.json
+*.csv
+*.db
+*.log
+*.xlsx
+*.xls
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporaires
+tmp/
+temp/
+*.tmp
